@@ -14,7 +14,7 @@ The final instantiation of the protocol achieves NIST security level 3
 
 The project consists of four aspects:
 1. A new VPN protocol
-2. Security proofs (both symbolic computational)
+2. Security proofs (both symbolic and computational)
 3. An implementation as a Linux kernel module
 4. Performance comparison with other VPN software
 
